@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tCUj3s8B1BODzT6WemupQAJ6kHCPhRT7GfgLy6RC/IzKNB+sO8LlHPhKW+Fl73QAq6bLMOzUyEnJv6LWqxSYpg==",
+  "success": true,
+  "projectFilePath": "/Users/mac/Desktop/EmployeeManagment/EmployeeManagment.csproj",
+  "expectedPackageFiles": [
+    "/Users/mac/.nuget/packages/microsoft.aspnetcore.spaproxy/6.0.7/microsoft.aspnetcore.spaproxy.6.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
